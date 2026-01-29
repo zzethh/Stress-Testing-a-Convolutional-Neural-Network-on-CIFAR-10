@@ -1,0 +1,91 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Baseline Epoch 1: Train Acc 28.31% | Val Acc 40.90%
+Baseline Epoch 2: Train Acc 44.88% | Val Acc 51.86%
+Baseline Epoch 3: Train Acc 55.93% | Val Acc 53.78%
+Baseline Epoch 4: Train Acc 63.98% | Val Acc 63.38%
+Baseline Epoch 5: Train Acc 69.34% | Val Acc 71.66%
+Baseline Epoch 6: Train Acc 72.97% | Val Acc 73.60%
+Baseline Epoch 7: Train Acc 75.65% | Val Acc 74.12%
+Baseline Epoch 8: Train Acc 77.92% | Val Acc 73.42%
+Baseline Epoch 9: Train Acc 79.72% | Val Acc 79.10%
+Baseline Epoch 10: Train Acc 80.78% | Val Acc 77.40%
+Baseline Epoch 11: Train Acc 82.08% | Val Acc 78.22%
+Baseline Epoch 12: Train Acc 83.52% | Val Acc 82.92%
+Baseline Epoch 13: Train Acc 84.26% | Val Acc 80.04%
+Baseline Epoch 14: Train Acc 85.30% | Val Acc 83.02%
+Baseline Epoch 15: Train Acc 85.91% | Val Acc 83.84%
+Baseline Epoch 16: Train Acc 86.98% | Val Acc 84.18%
+Baseline Epoch 17: Train Acc 87.53% | Val Acc 84.98%
+Baseline Epoch 18: Train Acc 88.14% | Val Acc 84.74%
+Baseline Epoch 19: Train Acc 88.24% | Val Acc 84.06%
+Baseline Epoch 20: Train Acc 88.88% | Val Acc 82.76%
+Baseline Epoch 21: Train Acc 89.56% | Val Acc 86.72%
+Baseline Epoch 22: Train Acc 90.21% | Val Acc 87.60%
+Baseline Epoch 23: Train Acc 90.50% | Val Acc 88.00%
+Baseline Epoch 24: Train Acc 91.17% | Val Acc 88.32%
+Baseline Epoch 25: Train Acc 91.44% | Val Acc 86.28%
+Baseline Epoch 26: Train Acc 91.94% | Val Acc 88.08%
+Baseline Epoch 27: Train Acc 92.62% | Val Acc 89.08%
+Baseline Epoch 28: Train Acc 92.62% | Val Acc 89.04%
+Baseline Epoch 29: Train Acc 93.67% | Val Acc 88.62%
+Baseline Epoch 30: Train Acc 94.37% | Val Acc 89.96%
+Baseline Epoch 31: Train Acc 94.77% | Val Acc 90.18%
+Baseline Epoch 32: Train Acc 95.43% | Val Acc 90.64%
+Baseline Epoch 33: Train Acc 96.18% | Val Acc 90.70%
+Baseline Epoch 34: Train Acc 96.90% | Val Acc 92.20%
+Baseline Epoch 35: Train Acc 97.45% | Val Acc 91.72%
+Baseline Epoch 36: Train Acc 98.02% | Val Acc 92.16%
+Baseline Epoch 37: Train Acc 98.38% | Val Acc 92.46%
+Baseline Epoch 38: Train Acc 98.68% | Val Acc 92.82%
+Baseline Epoch 39: Train Acc 98.95% | Val Acc 92.70%
+Baseline Epoch 40: Train Acc 98.95% | Val Acc 92.60%
+Baseline Errors: 786 / 10000 (7.86%)
+Baseline Test Accuracy: 92.14%
+Modified Epoch 1: Train Acc 40.18% | Val Acc 52.74%
+Modified Epoch 2: Train Acc 59.60% | Val Acc 62.82%
+Modified Epoch 3: Train Acc 69.40% | Val Acc 64.76%
+Modified Epoch 4: Train Acc 73.92% | Val Acc 73.30%
+Modified Epoch 5: Train Acc 77.56% | Val Acc 75.26%
+Modified Epoch 6: Train Acc 79.95% | Val Acc 74.88%
+Modified Epoch 7: Train Acc 81.90% | Val Acc 79.50%
+Modified Epoch 8: Train Acc 83.60% | Val Acc 80.62%
+Modified Epoch 9: Train Acc 85.12% | Val Acc 84.32%
+Modified Epoch 10: Train Acc 86.06% | Val Acc 82.66%
+Modified Epoch 11: Train Acc 87.30% | Val Acc 83.76%
+Modified Epoch 12: Train Acc 88.23% | Val Acc 83.46%
+Modified Epoch 13: Train Acc 88.85% | Val Acc 81.56%
+Modified Epoch 14: Train Acc 89.68% | Val Acc 84.68%
+Modified Epoch 15: Train Acc 90.25% | Val Acc 88.74%
+Modified Epoch 16: Train Acc 90.90% | Val Acc 88.26%
+Modified Epoch 17: Train Acc 91.16% | Val Acc 87.40%
+Modified Epoch 18: Train Acc 91.94% | Val Acc 89.70%
+Modified Epoch 19: Train Acc 92.40% | Val Acc 84.86%
+Modified Epoch 20: Train Acc 92.62% | Val Acc 88.24%
+Modified Epoch 21: Train Acc 93.11% | Val Acc 88.82%
+Modified Epoch 22: Train Acc 93.52% | Val Acc 90.12%
+Modified Epoch 23: Train Acc 94.11% | Val Acc 89.42%
+Modified Epoch 24: Train Acc 94.53% | Val Acc 89.30%
+Modified Epoch 25: Train Acc 94.87% | Val Acc 90.72%
+Modified Epoch 26: Train Acc 95.18% | Val Acc 90.24%
+Modified Epoch 27: Train Acc 95.90% | Val Acc 89.74%
+Modified Epoch 28: Train Acc 95.98% | Val Acc 90.70%
+Modified Epoch 29: Train Acc 96.51% | Val Acc 91.36%
+Modified Epoch 30: Train Acc 97.17% | Val Acc 90.70%
+Modified Epoch 31: Train Acc 97.48% | Val Acc 91.94%
+Modified Epoch 32: Train Acc 97.81% | Val Acc 92.16%
+Modified Epoch 33: Train Acc 98.52% | Val Acc 92.94%
+Modified Epoch 34: Train Acc 98.70% | Val Acc 93.14%
+Modified Epoch 35: Train Acc 99.17% | Val Acc 93.86%
+Modified Epoch 36: Train Acc 99.46% | Val Acc 93.88%
+Modified Epoch 37: Train Acc 99.53% | Val Acc 93.70%
+Modified Epoch 38: Train Acc 99.64% | Val Acc 93.64%
+Modified Epoch 39: Train Acc 99.68% | Val Acc 93.86%
+Modified Epoch 40: Train Acc 99.73% | Val Acc 93.68%
+Modified Errors: 648 / 10000 (6.48%)
+Modified Test Accuracy: 93.52%
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
+Files already downloaded and verified
