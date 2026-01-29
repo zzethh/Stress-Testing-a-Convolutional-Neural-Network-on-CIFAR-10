@@ -56,9 +56,3 @@ All outputs are written to `assignment1/results/`:
 - **Chosen 3 canonical failure cases** (for the report): `chosen_failure_cases.json`
 - **Grad-CAM comparison on the chosen cases**: `gradcam_comparison.png`
 
-## Notes for the report
-
-- Dataset: **CIFAR-10**, using the official train/test split from `torchvision.datasets.CIFAR10`.
-- Reproducibility: a fixed seed is used (see `SEED` in `code/train.py`) and the train/val split is generated deterministically.
-- Constrained improvement: the only change between baseline and modified models is enabling **residual connections** in the same `FlexibleCNN` backbone.
-
